@@ -11,9 +11,9 @@ For a full explanation of PACTIM and its performance parameters for predicting p
 # Summary of Steps
 
 1.  Fork or download this repository. The folder structure is important for the scripts to work without modification.
-2.  Download the data training data from SEER\*Stat Software (see below for instructions).
+2.  Download the data training data from SEER\*Stat Software (see below for instructions). This step can be skipped if you wish to use the models without training them from scratch.
 3.  Run the scripts in the `scripts` folder.
-    -   `1_Make_Files` contains a script to train PACTIM.
+    -   `1_Make_Files` contains a script to train PACTIM (note: final models are already trained. The script may be skipped if you just wish to use the final models, which are available in the `models` folder.
 
     -   `2_Helpers` contains scripts for two helper functions that make it easier to produce predictions from PACTIM.
 
