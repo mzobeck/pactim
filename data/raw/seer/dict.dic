@@ -1,0 +1,37 @@
+[System]
+Matrix filename=Rate Session-1 Matrix-4
+Database name=Incidence - SEER Research Plus Data, 18 Registries, Nov 2020 Sub (2000-2018) - Linked To County Attributes - Total U.S., 1969-2019 Counties
+
+[Session Options]
+Type=Rate
+RatesAsCasesPer=100000
+
+[Export Options]
+GZipped=false
+Variable format=labels
+File format=DOS/Windows
+Field delimiter=comma
+Missing character=space
+Fields with delimiter in quotes=true
+Remove thousands separators=true
+Flags included=true
+Variable names included=true
+Column Variables as Stats=false
+
+[Variables]
+Var1Name=ICCC site recode 3rd edition/IARC 2017
+Var1Dimension=Row
+Var2Name=Sex
+Var2Dimension=Row
+Var3Name=age groups fixed - mz
+Var3Base=Age recode with <1 year olds
+Var3Dimension=Row
+Var4Name=all year of diagnosis - mz
+Var4Base=Year of diagnosis
+Var4Dimension=Row
+Var5Name=Race and origin recode (NHW, NHB, NHAIAN, NHAPI, Hispanic)
+Var5Dimension=Row
+Var6Name=Age-Adjusted Rate
+Var7Name=Count
+Var8Name=Population
+
