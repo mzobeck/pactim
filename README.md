@@ -25,9 +25,9 @@ For a full explanation of PACTIM and its performance parameters for predicting p
 
 The file for the PACTIM subgroup models is too large to host on GitHub. [This file may be downloaded here.](https://u.pcloud.link/publink/show?code=XZ7BqC0Zks1NEXNBJ3VPeHpY21ATn0Iremqy).
 
-Download and save this file in the `models` folder for the scripts in the repository to run properly.
+Download and save this file to the `models` folder for the scripts to run properly.
 
-The files of the models for total cancers and cancer groups are available in the `models` folder.
+The models for total cancers and cancer groups are available in the `models` folder.
 
 # How to obtain SEER data
 
