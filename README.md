@@ -45,26 +45,25 @@ PACTIM is trained on data from the Surveillance, Epidemiology, and End Results (
 
 5.  Create two custom variables in the Table tab as shown below:
 
-    1.  age groups fixed - mz
+    i.  age groups fixed - mz
 
-<p align = "center">
-<img src = "seer_age1.png" width = "414">
-</p>
+        <p align="center">
+        <img src="seer_age1.png" width="414">
+        </p>
 
-<p align = "center">
-<img src = "seer_age2.png" width = "414">
-</p>
+        <p align="center">
+        <img src="seer_age2.png" width="414">
+        </p>
 
+    ii. all year of diagnosis - mz
 
-    2.  all year of diagnosis - mz
+        <p align="center">
+        <img src="seer_year1.png" width="414">
+        </p>
 
-<p align = "center">
-<img src = "seer_year1.png" width = "414">
-</p>
-
-<p align = "center">
-<img src = "seer_year2.png" width = "414">
-</p>
+        <p align="center">
+        <img src="seer_year2.png" width="414">
+        </p>
 
 6.  Select the following variables in the Table tab:
 
