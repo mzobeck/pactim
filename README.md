@@ -1,4 +1,6 @@
-![](pactim-logo.jpg){width="414"}
+<p align = "center">
+<img src = "pactim-logo.jpg" width = "414" alt = "PACTIM Logo">
+</p>
 
 # PACTIM Code Repository
 
