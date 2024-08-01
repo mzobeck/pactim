@@ -47,13 +47,13 @@ PACTIM is trained on data from the Surveillance, Epidemiology, and End Results (
 
     i.  age groups fixed - mz
 
-        <p align="center">
-        <img src="seer_age1.png" width="414">
-        </p>
+    <p align="center">
+    <img src="seer_age1.png" width="414">
+    </p>
 
-        <p align="center">
-        <img src="seer_age2.png" width="414">
-        </p>
+    <p align="center">
+    <img src="seer_age2.png" width="414">
+    </p>
 
     ii. all year of diagnosis - mz
 
