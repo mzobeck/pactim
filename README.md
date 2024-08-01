@@ -57,13 +57,13 @@ PACTIM is trained on data from the Surveillance, Epidemiology, and End Results (
 
     ii. all year of diagnosis - mz
 
-        <p align="center">
-        <img src="seer_year1.png" width="414">
-        </p>
+    <p align="center">
+    <img src="seer_year1.png" width="414">
+    </p>
 
-        <p align="center">
-        <img src="seer_year2.png" width="414">
-        </p>
+    <p align="center">
+    <img src="seer_year2.png" width="414">
+    </p>
 
 6.  Select the following variables in the Table tab:
 
