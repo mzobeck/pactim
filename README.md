@@ -1,4 +1,4 @@
-<center>![](pactim-logo.jpg){width="414"}</center>
+![](pactim-logo.jpg){width="414"}
 
 # PACTIM Code Repository
 
