@@ -45,22 +45,34 @@ PACTIM is trained on data from the Surveillance, Epidemiology, and End Results (
 
     1.  age groups fixed - mz
 
-    <center>![](seer_age1.png){width="450"}</center>
+<p align = "center">
+<img src = "seer_age1.png" width = "414">
+</p>
 
-    <center>![](seer_age2.png){width="450"}</center>
+<p align = "center">
+<img src = "seer_age2.png" width = "414">
+</p>
+
 
     2.  all year of diagnosis - mz
 
-    <center>![](seer_year1.png){width="450"}</center>
+<p align = "center">
+<img src = "seer_year1.png" width = "414">
+</p>
 
-    <center>![](seer_year2.png){width="450"}</center>
+<p align = "center">
+<img src = "seer_year2.png" width = "414">
+</p>
 
 6.  Select the following variables in the Table tab:
 
-    <center>![](seer_vars.png){width="371"}</center>
+<p align = "center">
+<img src = "seer_vars.png" width = "414">
+</p>
+
 
 7.  Execute the query and download the data. Place the data in the `data > raw > seer` folder.
 
     1.  Note: The dictionary from the original query is included in the `data > raw > seer` folder for your reference.
 
-If there are any issues, please open an issue on GitHub or [email the authors](mailto: mark.zobeck@bcm.edu).
+If there are any issues, please open an issue on GitHub or [email the authors](mailto:mark.zobeck@bcm.edu). 
